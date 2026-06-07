@@ -23,7 +23,7 @@ This project focuses on recreating a modern registration form while implementing
 
 ## Live Demo
 
-- Live Site: YOUR_LIVE_URL_HERE
+- Live Site: [LIVE DEMO](https://juansanchezzzzz.github.io/Intro-component-with-sign-up-form/)
 - Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/intro-component-with-signup-form-Bp6mkTIK_
 
 ---
